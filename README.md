@@ -10,7 +10,7 @@ This repository explores deep learning-based image super-resolution for remote s
 
 ---
 
-## 💻 Software Requirements
+## Software Requirements
 
 - **Git**
 
@@ -43,7 +43,7 @@ This repository explores deep learning-based image super-resolution for remote s
 
 ---
 
-## 🧪 Environment Setup
+## Environment Setup
 
 This project uses a Conda environment defined in `environment.yml` for easy reproducibility.
 
@@ -73,7 +73,7 @@ This project uses a Conda environment defined in `environment.yml` for easy repr
 
 ---
 
-## 📦 Main Dependencies
+## Main Dependencies
 
 The Conda environment includes all necessary dependencies listed in [`environment.yml`](environment.yml):
 
