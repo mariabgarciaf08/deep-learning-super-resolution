@@ -1,12 +1,12 @@
-# deep-learning-super-resolution# 🛰️ IADF SCHOOL: Deep Learning for Super-Resolution in Remote Sensing
+# Deep Learning for Super-Resolution in Remote Sensing
 
 ![Logo](images/summer_school_2025.png)
 
 Remote sensing is essential for understanding our planet and supports key applications such as climate monitoring, urban development, biodiversity conservation, and disaster management. With the increasing availability of data from Earth Observation (EO) satellites (e.g., Sentinel), there is a growing need for advanced image processing techniques.
 
-**Super-resolution** is a deep learning technique that increases the spatial resolution of satellite images, helping extract finer details from low-resolution data. This enhances decision-making in areas like environmental monitoring, land use planning, and emergency response.
+Super-resolution is a deep learning technique that increases the spatial resolution of satellite images, helping extract finer details from low-resolution data. This enhances decision-making in areas like environmental monitoring, land use planning, and emergency response.
 
-This repository explores deep learning-based **image super-resolution** for remote sensing, with practical notebooks, visualizations, and evaluation metrics.
+This repository explores deep learning-based image super-resolution for remote sensing, with practical notebooks, visualizations, and evaluation metrics.
 
 ---
 
@@ -49,7 +49,7 @@ This project uses a Conda environment defined in `environment.yml` for easy repr
 
 1. Clone the repository and move into the project folder:
    ```bash
-   git clone https://github.com/your-user/DEEP-LEARNING-SUPER-RESOLUTION-main.git
+   git clone https://github.com/mariabgarciaf08/DEEP-LEARNING-SUPER-RESOLUTION-main.git
    cd DEEP-LEARNING-SUPER-RESOLUTION-main
    ```
 
@@ -86,28 +86,3 @@ The Conda environment includes all necessary dependencies listed in [`environmen
 
 ---
 
-## 📁 Project Structure (example)
-
-```
-DEEP-LEARNING-SUPER-RESOLUTION-main/
-├── notebooks/
-│   ├── 01_upsampling_comparison.ipynb
-│   ├── 02_psnr_ssim_evaluation.ipynb
-├── images/
-│   ├── image_hr.png
-│   ├── image_lr_2.png
-│   ├── summer_school_2025.png
-│   └── ...
-├── outputs_upsampling/
-│   ├── nearest.png
-│   ├── bilinear.png
-│   └── ...
-├── environment.yml
-└── README.md
-```
-
----
-
-## 📫 Contact
-
-For questions or contributions, feel free to open an issue or contact us via pull request.
