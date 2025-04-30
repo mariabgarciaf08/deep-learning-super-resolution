@@ -176,3 +176,4 @@ cython_debug/
 UCMerced_LandUse/*
 data/MNIST/raw/*
 outputs_upsampling/*
+*.txt
